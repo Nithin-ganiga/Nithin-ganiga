@@ -3,8 +3,8 @@
 I'm a student pursuing my B.Tech in Computer Science at PES University in Bangalore, India. I have a keen interest in web development and I'm currently exploring various web technologies.
 
 🌱 I'm currently learning and working with:
-- ![Python](https://www.python.org/static/community_logos/python-logo.png) Python
-- ![Java](https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg) Java
+- Python
+- Java
 - HTML
 - CSS
 - JavaScript
