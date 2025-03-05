@@ -1,7 +1,3 @@
-Here’s your **updated GitHub profile README** with your LinkedIn URL added:  
-
----
-
 ## **Hi there, I'm Nithin Ganiga! 👋**  
 
 I'm a student pursuing my **B.Tech in Computer Science** at **PES University, Bangalore, India**. I have a keen interest in **web development, software engineering, and emerging technologies**. Currently, I'm exploring various domains in **full-stack development, cybersecurity, and blockchain**.  
