@@ -22,6 +22,7 @@ I'm passionate about **building scalable applications, solving complex problems,
 ### **📫 Let's Connect!**  
 📧 Email: [nithinganiga959@gmail.com](mailto:nithinganiga959@gmail.com)  
 💼 LinkedIn: [Nithin Ganiga](https://www.linkedin.com/in/nithin-ganiga-22249724a/)  
+@ Portfolio :(https://www.nithinganiga.dev)
 
 Let's **code, innovate, and build amazing things together!** 😄🚀  
 
