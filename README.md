@@ -12,13 +12,13 @@
 - 📍 Bengaluru, India
 
 ## Portfolio
- 🌐 [Live]([https://myportfolio-8p4w.onrender.com/](https://www.nithinganiga.dev/))
+ 🌐 [Live][https://myportfolio-8p4w.onrender.com/](https://www.nithinganiga.dev/)
 
 
 ## 🌐 Connect with Me:
 
 <a href="https://www.linkedin.com/in/nithin-ganiga-22249724a/" target="blank">
-  <img src="https://img.shields.io/badge/LinkedIn-@nithin-ganiga-22249724a-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/LinkedIn-@nithin-ganiga-FFA116?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="https://leetcode.com/u/NITHIN_GANIGA/" target="blank">
   <img src="https://img.shields.io/badge/LeetCode-@NITHIN_GANIGA-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
