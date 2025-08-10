@@ -12,7 +12,7 @@
 - 📍 Bengaluru, India
 
 ## Portfolio
- 🌐 [Live][https://myportfolio-8p4w.onrender.com/](https://www.nithinganiga.dev/)
+ 🌐 [Live](https://www.nithinganiga.dev/)
 
 
 ## 🌐 Connect with Me:
